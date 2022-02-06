@@ -30,8 +30,8 @@
 
 ## Connect with me 
 <p>
-  <a href="https://www.linkedin.com/in/abdelaziz-mesfar-7568751a2/"><img width="4%" src="https://user-images.githubusercontent.com/59772259/152676025-e373fd78-302b-4c8d-9697-a4251c91dc77.png" alt="linkidin-logo"></a>
-  <a href="https://www.facebook.com/aziz.msf/"><img width="4%" src="https://user-images.githubusercontent.com/59772259/152676125-5fc6ec13-ea6a-44c0-8869-d091079afe77.png" alt="fb-logo"></a>
+  <a href="https://www.linkedin.com/in/abdelaziz-mesfar-7568751a2/"><img width="4%" src="https://user-images.githubusercontent.com/59772259/152676025-e373fd78-302b-4c8d-9697-a4251c91dc77.png" target="_blank" alt="linkidin-logo"></a>
+  <a href="https://www.facebook.com/aziz.msf/"><img width="4%" src="https://user-images.githubusercontent.com/59772259/152676125-5fc6ec13-ea6a-44c0-8869-d091079afe77.png" target="_blank" alt="fb-logo"></a>
   <a href=""><img width="4%" src="https://user-images.githubusercontent.com/59772259/152676179-9f63aa11-62f3-4ba7-8770-528a9d7c5c41.png" alt="mail-logo"></a>
 </p>
 
