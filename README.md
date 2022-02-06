@@ -21,7 +21,7 @@
 
 ## Technologies :computer:
 <p>
-[visit](https://user-images.githubusercontent.com/59772259/152675614-b4391b0d-a1c7-45f0-99a1-d9287821ab15.png){:target="_blank"}  
+  
 <img width="5%" src="https://user-images.githubusercontent.com/59772259/152675614-b4391b0d-a1c7-45f0-99a1-d9287821ab15.png" alt="html-logo"/>
 <img width="5%" src="https://user-images.githubusercontent.com/59772259/152675647-1af6411e-58d2-4179-b5f4-ad8c6ad3bbd4.png" alt="css-logo"/>
 <img width="4%" src="https://user-images.githubusercontent.com/59772259/152675696-7b1e3953-ec7c-420b-9bfc-71145b9b3a37.png" alt="js-logo"/>
