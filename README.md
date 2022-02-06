@@ -6,8 +6,8 @@
   <td valign="center">
     🎓 I recently obtained my university degree in <strong>Electromechanical Engineering</strong>.<br>
     🌱 I am currently learning <strong>React JS</strong> and also interested in <strong>Web Development</strong>.<br>
-    🎯 My Goal is to Contribute to as many <strong>open source project</strong> as possible.<br>
-    ✨ I love to create different types of <strong>contents</strong>.
+    🎯 My Goal is to become a <strong>Full Stack Developer</strong> .<br>
+    ✨ I love to create different types of <strong>projects</strong>.
   </td>
 </tr>
 </table>
