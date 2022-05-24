@@ -5,9 +5,9 @@
 <tr>
   <td valign="center">
     🎓 I recently obtained my university degree in <strong>Electromechanical Engineering</strong>.<br>
-    🌱 I am currently learning <strong>React JS</strong> and also interested in <strong>Web Development</strong>.<br>
-    🎯 My Goal is to become a <strong>Full Stack Developer</strong> .<br>
-    ✨ I love to create different types of <strong>projects</strong>.
+    🌱 Currently I am a retrained <strong>Full Stack JS Web Developer</strong>.<br>
+    🎯 My Goal is to contribute to many <strong>Projects</strong> and improve my <strong>skills</strong> and <strong>Knowledge</strong> in this field .<br>
+    ✨ I love learning new <strong>technologies</strong> and I am willing to face new <strong>Challenges</strong>.
   </td>
 </tr>
 </table>
